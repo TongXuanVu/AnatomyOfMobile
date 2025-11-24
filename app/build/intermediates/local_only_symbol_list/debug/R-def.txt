@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+id btnLogin
+id btnLogout
+id btnRegister
+id etLoginPassword
+id etLoginUsername
+id etRegisterPassword
+id etRegisterUsername
+id tvLoginPrompt
+id tvLoginTitle
+id tvRegisterPrompt
+id tvRegisterTitle
+id tvWelcome
+layout activity_login
+layout activity_main
+layout activity_register
+string app_name
+string button_login
+string button_register
+string hint_password
+string hint_username
+string text_login_prompt
+string text_register_prompt
+string text_welcome
+style Theme.AndroidAuthApp
+xml backup_rules
+xml data_extraction_rules

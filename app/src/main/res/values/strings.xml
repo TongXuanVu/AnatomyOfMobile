@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="hint_username">Tên đăng nhập</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="button_login">Đăng nhập</string>
+    <string name="button_register">Đăng ký</string>
+    <string name="text_register_prompt">Chưa có tài khoản? Đăng ký ngay</string>
+    <string name="text_login_prompt">Đã có tài khoản? Đăng nhập</string>
+    <string name="text_welcome">Chào mừng!</string>
+</resources>
