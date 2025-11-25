@@ -60,7 +60,7 @@ Dự án này cũng được cấu hình để sử dụng **R8/ProGuard** nhằ
 
 Dự án này được phát triển bởi nhóm sinh viên:
 
-| Tên Thành viên | Mã số Sinh viên | Vai trò |
+| Tên Thành viên | Mã số Sinh viên | Email|
 | :--- | :--- | :--- |
 | Kim Thái Vi Anh | 23520045 | 23520045@gm.uit.edu.vn |
 | Phan Nguyễn Huy Duy | 23520385 | 23520385@gm.uit.edu.vn |
@@ -68,3 +68,4 @@ Dự án này được phát triển bởi nhóm sinh viên:
 | Tống Xuân Vũ| 23521817 |23521817@gm.uit.edu.vn |
 
 ---
+
